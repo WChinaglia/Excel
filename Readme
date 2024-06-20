@@ -1,0 +1,22 @@
+Tabela da Copa do Mundo Catar 2022
+Arquivo de Excel criado por Wildson Chinaglia em 19/06/2024
+
+Uma tabela totalmente funcional para anotar os resultados da Copa do Mundo.
+
+Ao inserir os resultados dos jogos, a tabela automaticamente preenche os valores de pontos
+marcados, saldo de gols e gols marcados.
+
+Segue os mesmos critérios de desempate da Copa do Mundo:
+  1 - Pontos
+  2 - Saldo de Gols
+  3 - Gols Marcados
+
+Times que avançam para as Oitavas-de-Final são automaticamente inseridos em suas respectivas
+chaves de acordo com os resultados do grupo.
+
+Caso haja desempate por pênaltis, há espaço reservado para anotar os resultados abaixo da
+célula cinza. Os times avançam automaticamente a depender dos resultados anotados, padrão
+que segue das Oitavas até a Final e disputa de Terceiro Lugar.
+
+
+
